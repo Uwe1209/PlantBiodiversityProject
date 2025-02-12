@@ -1,0 +1,4 @@
+First Name:John|Last Name:Doe|DOB:1990-05-15|Phone:0123456789|Gender:Male|Email:john.doe@gmail.com|Hometown:New York|Password:!123456789
+First Name:Jane|Last Name:Smith|DOB:1985-11-20|Phone:0098765432|Gender:Female|Email:jane.smith@gmail.com|Hometown:Los Angeles|Password:!098765432
+First Name:Mark|Last Name:Brown|DOB:1992-06-12|Phone:0456123789|Gender:Female|Email:mark.brown@gmail.com|Hometown:Chicago|Password:!456123789
+First Name:Emily|Last Name:White|DOB:1995-01-30|Phone:0321654987|Gender:Female|Email:emily.white@gmail.com|Hometown:Houston|Password:!321654987
